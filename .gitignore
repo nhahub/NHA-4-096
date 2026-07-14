@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Temporary and downloaded assets
+*.mp4
+temp_assets/
+tempCodeRunnerFile.py
+ffmpeg_temp/
+*.zip
+ffmpeg*/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and Editors
+.vscode/
+.idea/
